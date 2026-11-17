@@ -43,9 +43,9 @@ Power BI | Excel Dashboards | R | Tableau
 
 ## 📂 Featured Projects
 
-### Here are some of the practical projects I have worked on, applying analytical tools to explore datasets and generate business insights.
+#### Here are some of the practical projects I have worked on, applying analytical tools to explore datasets and generate business insights.
 
-#### 1. Student Performance Analysis
+### 1. Student Performance Analysis
 
 **Tools:** Power BI | Excel
 
@@ -59,6 +59,22 @@ An interactive Power BI dashboard analyzing academic performance across 197 stud
 - Developed an interactive dashboard to support data-driven academic decisions.
 
 [View Project Here](https://github.com/stellagendo/student-performance-analysis)
+
+
+### 2. Superstore Sales Analysis (2020–2023)
+
+**Tools:** Power BI | Excel
+
+A retail sales analysis exploring business performance, profitability, customer segments and returned orders from 2020 to 2023.
+
+**Key Highlights:**
+- Analyzed $2.33M in total sales and $292.30K in total profit.
+- Evaluated sales performance against previous-year sales.
+- Examined sales contributions across Consumer, Corporate and Home Office segments.
+- Analyzed returned orders, which accounted for 5.79% of total orders.
+- Developed visualizations to support business performance monitoring and data-driven decision-making.
+
+[View Project Here](https://github.com/stellagendo/superstore-sales-analysis)
 
 *Explore the individual project repositories to learn more about the datasets, analytical processes, findings and recommendations.*
 
