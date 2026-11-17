@@ -30,7 +30,8 @@ Excel | Google Sheets | SQL | Python | R
 Power BI | Excel Dashboards | R | Tableau
 
  
-##Analytical Skills
+## Analytical Skills 
+
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
