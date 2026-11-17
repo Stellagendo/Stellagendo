@@ -45,7 +45,7 @@ Power BI | Excel Dashboards | R | Tableau
 
 ### Here are some of the practical projects I have worked on, applying analytical tools to explore datasets and generate business insights.
 
-#### 1. [Student Performance Analysis](https://github.com/stellagendo/student-performance-analysis)
+#### 1. Student Performance Analysis
 
 **Tools:** Power BI | Excel
 
@@ -58,7 +58,7 @@ An interactive Power BI dashboard analyzing academic performance across 197 stud
 - Identified 31 students requiring academic improvement.
 - Developed an interactive dashboard to support data-driven academic decisions.
 
-[View Project Repository →](https://github.com/stellagendo/student-performance-analysis)
+[View Project Here →](https://github.com/stellagendo/student-performance-analysis)
 
 *Explore the individual project repositories to learn more about the datasets, analytical processes, findings and recommendations.*
 
