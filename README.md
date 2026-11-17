@@ -58,7 +58,7 @@ An interactive Power BI dashboard analyzing academic performance across 197 stud
 - Identified 31 students requiring academic improvement.
 - Developed an interactive dashboard to support data-driven academic decisions.
 
-[View Project Here →](https://github.com/stellagendo/student-performance-analysis)
+[View Project Here](https://github.com/stellagendo/student-performance-analysis)
 
 *Explore the individual project repositories to learn more about the datasets, analytical processes, findings and recommendations.*
 
