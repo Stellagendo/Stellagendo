@@ -85,7 +85,7 @@ An interactive Power BI dashboard analyzing academic performance across 197 stud
 I'm always interested in connecting with fellow data professionals, learning from others and collaborating on meaningful projects.
 
 - **GitHub:** [@stellagendo](https://github.com/stellagendo)
-- **LinkedIn:** 
+- **LinkedIn:** www.linkedin.com/in/stella-gendo 
 - **Email:** gendostella@gmail.com
 
 ---
