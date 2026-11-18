@@ -6,18 +6,18 @@ With a background in Business Information Technology, I combine analytical think
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 BSc in Business Information Technology – University of Dar es Salaam.
-- 📊 Interested in Data Analytics, Business Intelligence and Data-Driven Decision Making.
-- 🔍 Enjoy working with data to uncover trends, patterns and actionable insights.
-- 💡 Interested in applying technology and analytics to solve real-world business problems.
-- 🌱 Continuously developing my analytical and technical skills through practical projects and professional learning.
-- 🤝 Open to collaborations, networking and opportunities in the data analytics field.
+- BSc in Business Information Technology – University of Dar es Salaam.
+- Interested in Data Analytics, Business Intelligence and Data-Driven Decision Making.
+- Enjoy working with data to uncover trends, patterns and actionable insights.
+- Interested in applying technology and analytics to solve real-world business problems.
+- Continuously developing my analytical and technical skills through practical projects and professional learning.
+- Open to collaborations, networking and opportunities in the data analytics field.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+##  Technical Skills & Tools
 
 **Data Analysis & Manipulation**
 
