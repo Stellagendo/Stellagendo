@@ -1,7 +1,5 @@
 # Hi, I'm Stella 
 
-### Data Analyst | Business Intelligence | Data Visualisation
-
 I transform raw data into meaningful insights that help businesses understand performance, identify opportunities and make informed decisions.
 
 With a background in Business Information Technology, I combine analytical thinking, technical skills and business understanding to explore data, uncover patterns and communicate findings through meaningful visualisations and reports.
