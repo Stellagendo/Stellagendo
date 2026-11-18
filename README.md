@@ -39,7 +39,7 @@ Power BI | Excel Dashboards | R | Tableau
 
 
 
-## 📂 Featured Projects
+## Featured Projects
 
 #### Here are some of the practical projects I have worked on, applying analytical tools to explore datasets and generate business insights.
 
@@ -78,14 +78,14 @@ A retail sales analysis exploring business performance, profitability, customer 
 
 ---
 
-## 🏆 Certifications & Professional Learning
+##  Certifications & Professional Learning
 
 - Google Data Analytics Professional Certificate
 - Continuous professional development through DataCamp, Cisco and the DataGirls community.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Strengthening SQL skills for data querying and analysis.
 - Developing Python skills for data analysis and automation.
@@ -94,7 +94,7 @@ A retail sales analysis exploring business performance, profitability, customer 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with fellow data professionals, learning from others and collaborating on meaningful projects.
 
