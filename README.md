@@ -79,7 +79,7 @@ A retail sales analysis exploring business performance, profitability, customer 
 
 An interactive Power BI dashboard exploring e-commerce business performance, customer segmentation, purchasing behaviour, spending patterns and technology preferences.
 
-[View Project Here](https://github.com/stellagendo/superstore-sales-analysis)
+[View Project Here](https://github.com/stellagendo/E-Commerce-Sales-Customer-Analysis)
 
 *Explore the individual project repositories to learn more about the datasets, analytical processes, findings and recommendations.*
 
